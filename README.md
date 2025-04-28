@@ -57,4 +57,4 @@ These results highlight the potential of the CNN-LSTM model for accurate solar e
 - **Var Correlation**
 ![Var Correlation](https://github.com/angelalim88/Solar-Energy-Prediction-CNN-LSTM/blob/main/images/var_corelation.png)
 - **Pairplot Scatterplots**
-![Pairplot Scatterplots](https://github.com/angelalim88/Solar-Energy-Prediction-CNN-LSTM/blob/images/images/pairplot_scatterplots.png)
+![Pairplot Scatterplots](https://github.com/angelalim88/Solar-Energy-Prediction-CNN-LSTM/blob/main/images/pairplot_scatterplots.png)
